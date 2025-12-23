@@ -30,13 +30,13 @@ ________________________________________
 •	📈 Interactive visuals for deep exploration
 
 📸 Dashboard Screenshots
+<img width="1306" height="732" alt="Screenshot 2025-12-24 014621" src="https://github.com/user-attachments/assets/98826251-aa3b-4077-ac1e-498bcf704733" />
+<img width="1303" height="726" alt="Screenshot 2025-12-24 014653" src="https://github.com/user-attachments/assets/1d0ecccf-d0a7-40a9-9153-f7507b1214d0" />
+<img width="1300" height="730" alt="Screenshot 2025-12-24 014709" src="https://github.com/user-attachments/assets/07063539-3658-4a5d-a6a4-c2e4a8907dc4" />
 
+*Project drive link
+https://drive.google.com/drive/folders/1ahe-5bDJ1YY3AeQRL8fjNv0m7PNm1o-A?usp=drive_link
 
-
- 
-
- 
- 
 📊 Visualizations Included
 
 •	KPI Cards
